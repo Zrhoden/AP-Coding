@@ -7,4 +7,10 @@ def numberThing(numberList, value):
         if x == value:
             break 
 
-numberThing(numberList, value)
+numberThing(numberList= value)
+
+
+unorderedList= [600,91,49,23, 22, 4]
+
+unorderedList.sort
+
