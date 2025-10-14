@@ -82,4 +82,4 @@ class gameMaker :
             print('year:'+ str(self.year))
 
 gameOption1 = gameMaker('PS5', '2k', '26', '2025')
-gameOption2 = gameMaker('PS5', 'Madden', '26', '2025')
+gameOption289 = gameMaker('PS5', 'Madden', '26', '2025')
